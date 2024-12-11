@@ -9,4 +9,87 @@
 9) Now, docker compose down of all the other projects. Then docker compose build and then docker compose up and docker compose build --no-cache, takes upto max 30 mins with decent network connection
 10) Setup User model, don't migrate yet
 11) Now setup postgres database - already setted up, change port number - and be consistent with username and password in .env file
-12) Docker compose exec web python manage.py makemigrations, and migrate
+12) Docker compose exec web python manage.py makemigrations, and migrate.
+
+
+how to push in server,
+
+1.merge in develop
+2. ssh ubuntu@IP(65.2.30.127)
+3. cd path to the server project
+4. git pull
+5. migrate if any left
+
+
+
+🚀 For remote work opportunities:
+Uplers: 💼 https://www.uplers.com/
+Pangian: 💼 https://pangian.com
+We Work Remotely: 💼 https://lnkd.in/dTwbuTCt
+Jagvimal Consultants & Management Services Pvt. Ltd.:- https://www.jagvimal.com/
+Crossover :- https://www.crossover.com/
+Arc.dev: 💼 https://arc.dev
+Indeed Flex:- https://indeedflex.com/
+Remotive: 💼 https://lnkd.in/ga7wUHng
+JustRemote: 💼 https://justremote.co/
+Remote Work Junkie:- https://aijobs.ai/remote
+Work At Home Jobs:- https://lnkd.in/gywgZnxS
+Dynamite Jobs:- https://lnkd.in/gJCPyacX
+Outsourcely:- https://lnkd.in/gqGhtSaS
+Remotebase:- https://remotebase.com/
+Quest Software:- https://www.quest.com/
+Upstart 13:- https://upstart13.com/
+Docker, Inc:- https://www.docker.com/
+Jobspresso: 💼 https://jobspresso.co/
+DailyRemote: 💼 https://dailyremote.com/
+Working Nomads: 💼 https://lnkd.in/dJKgGBTx
+Gleexa:- https://gleexa.com/
+WorkRemote:- https://workremote.pt/
+PeoplePerHour:- https://lnkd.in/gcUyc4gp
+Remlance.com:- https://remlance.com/
+Remote Work:- https://jobicy.com/
+Jobshc.com:- https://jobshc.com/
+Remote Jobs In HR:- https://lnkd.in/g2N3TtvE
+Zoho Recruit:- https://lnkd.in/gh_X6xrX
+
+🚀 For freelance or part-time gigs:
+Freelancer.com: 💼 https://www.freelance.com/
+Upwork: 💼 https://www.upwork.com/
+SolidGigs: 💼 https://solidgigs.com
+Snagajob: 💼 https://www.snagajob.com/
+LinkedIn: 💼 http://www.linkedin.com/
+Sarva Servicescape: 💼 https://lnkd.in/dg-5Q-WK
+CoolWorks.com: 💼 https://www.coolworks.com/
+Contena: 💼 https://www.contena.co
+Fiverr: 💼 https://www.fiverr.com/
+
+🚀 For coding interviews:
+LeetCode: 💼 https://leetcode.com/
+HackerRank: 💼 https://lnkd.in/d322VBBq
+Codewars: 💼 https://www.codewars.com
+CodeChef: 💼 https://www.codechef.com/
+
+🚀 To negotiate your salary effectively:
+Levels.fyi: 💼 http://www.levels.fyi/
+Glassdoor: 💼 http://www.glassdoor.com/
+
+🚀 Keep your job search organized:
+HUNTR: 💼 https://huntr.co
+Jackfruit: 💼 https://www.jackfruit.ai/
+Jobscan: 💼 https://www.jobscan.co/
+Kiter: 💼 https://kiter.app/
+
+🚀 Enhance your productivity and collaboration:
+Grammarly: 💼 http://www.grammarly.com/
+Todoist: 💼 http://www.todoist.com/
+Notion: 💼 http://www.notion.so/
+
+https://www.uplers.com/
+https://pangian.com
+educate nepal
+yarsa lab
+mero job
+jobsnipper
+f1soft
+http://ing.com.np
+teslatech
